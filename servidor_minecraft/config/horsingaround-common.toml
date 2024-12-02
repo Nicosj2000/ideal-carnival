@@ -1,0 +1,8 @@
+
+#General settings
+[General]
+	#Add tamed mountable entities to the call list upon mounting [Default: false]
+	addOnMount = true
+	#Add mountable entities to the call list upon being tamed [Default: false]
+	addOnTame = true
+

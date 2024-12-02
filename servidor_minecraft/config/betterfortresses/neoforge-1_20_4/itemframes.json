@@ -1,0 +1,72 @@
+{
+  "weaponItems": {
+    "entries": {
+      "minecraft:stone_axe": 0.025,
+      "minecraft:golden_axe": 0.05,
+      "minecraft:shield": 0.025,
+      "minecraft:stone_sword": 0.025,
+      "minecraft:iron_sword": 0.025,
+      "minecraft:golden_sword": 0.05,
+      "minecraft:netherite_sword": 0.005,
+      "minecraft:iron_axe": 0.025
+    },
+    "defaultItem": "minecraft:air"
+  },
+  "lootItems": {
+    "entries": {
+      "minecraft:gold_ingot": 0.1,
+      "minecraft:nether_wart": 0.1,
+      "minecraft:gold_nugget": 0.2,
+      "modern_industrialization:bronze_ingot": 0.1,
+      "minecraft:iron_ingot": 0.2,
+      "minecraft:lapis_lazuli": 0.1,
+      "minecraft:copper_ingot": 0.2,
+      "justdirethings:ferricore_ingot": 0.1
+    },
+    "defaultItem": "minecraft:air"
+  },
+  "studyItems": {
+    "entries": {
+      "minecraft:book": 0.4,
+      "minecraft:enchanted_book": 0.1,
+      "minecraft:enchanted_book": 0.1,
+      "minecraft:writable_book": 0.1,
+      "minecraft:paper": 0.1,
+      "darkutils:tome_enchanting": 0.1
+    },
+    "defaultItem": "minecraft:air"
+  },
+  "messHallItems": {
+    "entries": {
+      "minecraft:gold_ingot": 0.2,
+      "minecraft:cooked_porkchop": 0.3,
+      "minecraft:porkchop": 0.3,
+      "pamhc2foodcore:jellybeansitem": 0.2,
+      "pamhc2foodcore:epicbaconitem": 0.2,
+      "pamhc2foodcore:basiccheeseburgeritem": 0.2,
+      "pamhc2foodcore:carameldonutitem": 0.2,
+      "pamhc2foodcore:sweetberrypopsicleitem": 0.2,
+      "pamhc2foodcore:pumpkinyogurtitem": 0.2,
+      "pamhc2foodcore:pumpkinmuffinitem": 0.2,
+      "pamhc2foodcore:carrotcakeitem": 0.2
+
+    },
+    "defaultItem": "minecraft:air"
+  },
+  "alchemyItems": {
+    "entries": {
+      "minecraft:magma_cream": 0.3,
+      "minecraft:quartz": 0.3,
+      "minecraft:fire_charge": 0.2,
+      "equivalentexchange:covalence_dust_low": 0.4,
+      "equivalentexchange:covalence_dust_medium": 0.2,
+      "equivalentexchange:covalence_dust_high": 0.1,
+      "equivalentexchange:alchemical_coal": 0.2,
+      "minecraft:blaze_powder": 0.2,
+      "minecraft:ghast_tear": 0.1
+
+
+    },
+    "defaultItem": "minecraft:air"
+  }
+}

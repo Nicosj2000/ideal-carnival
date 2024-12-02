@@ -1,0 +1,8 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = ["[KubeJS/]: Skipping", "[KubeJS/]: - File found:", "Invalid path in pack:", "Stack trace for invalid early tag access", "Exception loading blockstate definition","Unable to load model:","Unknown CTCP Request from user","Invalid frame index on sprite", "Disconnecting VANILLA connection attempt", "Channels ", "net.creeperhost.equivalentexchange.EquivalentExchange/", "If this is a development environment you can ignore this message", "[mixin/]: Reference map", "[KubeJS/]: - File found:", "[ne.cr.eq.EquivalentExchange/]:", "[EMI/]: [EMI]",]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = ["Disconnecting VANILLA connection attempt", "Channels "]

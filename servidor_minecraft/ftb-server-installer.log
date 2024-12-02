@@ -1,0 +1,25 @@
+                                               ███████ ████████ ██████  
+                                               ██         ██    ██   ██ 
+                                               █████      ██    ██████  
+                                               ██         ██    ██   ██ 
+                                               ██         ██    ██████  
+                                               
+                                               
+                                        Server installer version: v1.0.8(f1f067)
+                                             Sun, 01 Dec 2024 23:15:38 UTC
+
+                                                Installer Issue tracker
+                                 https://github.com/FTBTeam/FTB-Server-Installer/issues
+                                                            
+ INFO  Fetched modpack:
+       Name: FTB NeoTech
+       Version: 1.7.0
+       ModLoader: neoforge (20.4.237)
+       Is Update: false
+       Install Path: E:\a
+Do you want to continue? [Y/n]: Yes
+Do you want to download java? [Y/n]: Yes
+ INFO  Starting mod pack download...
+ INFO  Modpack files downloaded
+Would you like to run the neoforge installer? [Y/n]: No
+ SUCCESS  Modpack installed successfully

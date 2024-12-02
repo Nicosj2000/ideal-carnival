@@ -1,0 +1,23 @@
+[00:16:07] [INIT] KubeJS 2004.7.0-build.26; MC 2004 NeoForge
+[00:16:07] [INIT] Loaded plugins:
+[00:16:07] [INIT] - dev.latvian.mods.kubejs.neoforge.NeoForgeKubeJSPlugin
+[00:16:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[00:16:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[00:16:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:16:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[00:16:07] [INIT] - com.sunekaer.sdrp.neoforge.kubejs.SDRPKubeJSIntegration
+[00:16:07] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[00:16:07] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[00:16:07] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[00:16:07] [INFO] Loaded script startup_scripts:global.js in 0.086 s
+[00:16:07] [INFO] Loaded script startup_scripts:disabling_multiblocks.js in 0.004 s
+[00:16:07] [INFO] Loaded script startup_scripts:custom_items.js in 0.003 s
+[00:16:07] [INFO] Loaded script startup_scripts:item_modifications.js in 0.001 s
+[00:16:07] [INFO] Loaded script startup_scripts:custom_music.js in 0.0 s
+[00:16:07] [INFO] Loaded script startup_scripts:custom_fluids.js in 0.0 s
+[00:16:07] [INFO] hideemc.js#1: Loaded Java class 'net.neoforged.neoforge.common.NeoForge'
+[00:16:07] [INFO] hideemc.js#4: Loaded Java class 'net.neoforged.bus.api.EventPriority'
+[00:16:07] [INFO] hideemc.js#5: Loaded Java class 'dev.latvian.mods.kubejs.KubeJS'
+[00:16:07] [INFO] hideemc.js#7: Loaded Java class 'net.neoforged.neoforge.event.entity.player.ItemTooltipEvent'
+[00:16:07] [INFO] Loaded script startup_scripts:hideemc.js in 0.013 s
+[00:16:07] [INFO] Loaded 7/7 KubeJS startup scripts in 0.529 s with 0 errors and 0 warnings

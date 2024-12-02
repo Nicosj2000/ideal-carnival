@@ -1,0 +1,10 @@
+{
+	// Enable ProjectE compat, This will allow EE4 to load ProjectE emc values provided by other mods
+	"ProjectECompat": true,
+	// Create EMC values for non emc items using their recipes
+	"UseRecipeManager": true,
+	// Collectors require their owner to be online to function
+	"CollectorsRequireOnline": false,
+	// Print debug logs
+	"DEBUG_PRINT": false
+}

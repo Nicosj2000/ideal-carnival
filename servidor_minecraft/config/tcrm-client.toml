@@ -1,0 +1,7 @@
+
+["The Crop Reaping mod"]
+	#Show crop breaking particles?  Default: true
+	showParticles = true
+	#Play crop breaking sounds?  Default: true
+	playSounds = true
+

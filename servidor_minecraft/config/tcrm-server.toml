@@ -1,0 +1,8 @@
+
+["The Crop Reaping Mod"]
+	#Requires seeds for auto planting?  Default: true
+	#eg: If you harvest carrots, then you must have carrots in your inventory/off hand to auto-re-plant them
+	requiresSeeds = true
+	#When you reap a crop, the drops go straight into your inventory?  Default: true
+	giveDropsToPlayer = true
+

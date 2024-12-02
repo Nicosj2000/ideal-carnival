@@ -1,0 +1,5 @@
+#Enable the camera shake for vanilla mobs. [true / false]
+"Enable Shake Camera for Vanilla" = true
+#Enable April Feature. [true / false]
+"Enable AprilFool Joke" = true
+

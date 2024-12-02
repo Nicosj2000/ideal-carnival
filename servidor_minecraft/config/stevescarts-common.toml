@@ -1,0 +1,31 @@
+#The amount of power the compact solar module will produce
+compactSolarProduction = 20
+#Repair item for Diamond farmer
+farmerRepairDiamond = "equivalentexchange:covalence_dust_low"
+#The max amount of dynamites that can be held
+maxDynamites = 50
+#The amount of power the standard solar module will produce
+standardSolarProduction = 20
+#The amount of power the basic solar module will produce
+basicSolarProduction = 10
+#Max drill size
+drillSize = 4
+#Repair item for Diamond Woodcutter
+woodcutterRepairDiamond = "equivalentexchange:covalence_dust_low"
+#Allow carts to run with items in the tool repair slot
+allowCartToRunWithRepairItems = true
+#Repair item for Iron Drill
+drillRepairIron = "equivalentexchange:covalence_dust_medium"
+#Repair item for Diamond Drill
+drillRepairDiamond = "equivalentexchange:covalence_dust_low"
+#Repair item for Hardened Drill
+drillRepairHardened = "equivalentexchange:covalence_dust_medium"
+#Allow fuel to be auto inserted into the cart assembler
+assemblerInsertFuel = false
+#Repair item for Hardened Woodcutter
+woodcutterRepairHardened = "equivalentexchange:covalence_dust_medium"
+#Disabled timed crafting
+disableTimedCrafting = false
+#Repair item for Netherite Woodcutter
+woodcutterRepairNetherite = "equivalentexchange:covalence_dust_high"
+

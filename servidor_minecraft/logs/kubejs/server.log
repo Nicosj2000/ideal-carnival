@@ -1,0 +1,1015 @@
+[00:16:15] [INIT] KubeJS 2004.7.0-build.26; MC 2004 NeoForge
+[00:16:15] [INIT] Loaded plugins:
+[00:16:15] [INIT] - dev.latvian.mods.kubejs.neoforge.NeoForgeKubeJSPlugin
+[00:16:15] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[00:16:15] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[00:16:15] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:16:15] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[00:16:15] [INIT] - com.sunekaer.sdrp.neoforge.kubejs.SDRPKubeJSIntegration
+[00:16:15] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[00:16:15] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[00:16:15] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[00:16:15] [INFO] Loaded script server_scripts:neotech_custom.js in 0.003 s
+[00:16:15] [INFO] Loaded script server_scripts:startitems.js in 0.0 s
+[00:16:15] [INFO] Loaded script server_scripts:vanilla.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:json_recipe_additions.js in 0.0 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/modern_industrialization.js in 0.005 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/mob_grinding_utils.js in 0.004 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/mining_gadgets.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/dark_utilities.js in 0.008 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/hang_glider.js in 0.0 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/super_factory_manager.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/sophisticated_storage.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/equivalent_exchange.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/modular_forcefields.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/building_gadgets.js in 0.0 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/copper_amulets.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/actually_additions.js in 0.011 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/chickens.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/dimensional_storage.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/immersive_engineering.js in 0.007 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/pneumaticcraft.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/applied_energistics.js in 0.005 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/pretty_pipes.js in 0.005 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/mekanism.js in 0.011 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/justdirethings.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/blockheads.js in 0.0 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/laserio.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:misc_recipe_additions.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:furnace.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:macerating/macerating.js in 0.008 s
+[00:16:15] [INFO] loot/blocks.js#2: LootTableJS: Loading Loot Tables
+[00:16:15] [INFO] Loaded script server_scripts:loot/blocks.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:ore_balancing.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:tags.js in 0.007 s
+[00:16:15] [INFO] Loaded script server_scripts:block_events.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:mod_specific/modular_routers.js in 0.001 s
+[00:16:15] [INFO] Loaded script server_scripts:quarry_mobfarm.js in 0.002 s
+[00:16:15] [INFO] Loaded script server_scripts:recipe_removals.js in 0.005 s
+[00:16:15] [INFO] Loaded 36/36 KubeJS server scripts in 0.148 s with 0 errors and 0 warnings
+[00:16:15] [INFO] Scripts loaded
+[00:16:15] [INFO] Initializing recipe event...
+[00:16:18] [INFO] [minecraft:block_entity_type] Found 5 tags, added 6 objects, removed 0 objects
+[00:16:19] [INFO] [minecraft:item] Found 3373 tags, added 764 objects, removed 3 objects
+[00:16:19] [INFO] [minecraft:fluid] Found 61 tags, added 39 objects, removed 4 objects
+[00:16:19] [INFO] [minecraft:block] Found 861 tags, added 12 objects, removed 0 objects
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/deepslate_redstone_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/lapis_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/diamond_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/nether_quartz_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/emerald_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: mekanism:blocks/fluorite_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: actuallyadditions:blocks/black_quartz_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/deepslate_emerald_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/deepslate_diamond_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: modern_industrialization:blocks/quartz_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: mekanism:blocks/deepslate_fluorite_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/deepslate_lapis_ore
+[00:16:21] [INFO] Re-applied modified loot table to vanilla: minecraft:blocks/redstone_ore
+[00:16:24] [INFO] Processing recipes...
+[00:16:24] [WARN] Failed to parse recipe 'justanotherchiselmod:factory/factory_stonecutting[minecraft:stonecutting]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'justanotherchiselmod:marble/marble[minecraft:stonecutting]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'chipped_express:stonecutting_chipped_course_sand_from_sand[minecraft:stonecutting]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'incendium:upgrade_elytra[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'darkutils:crafting/tome_pigpen[crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'darkutils:crafting/tome_runelic[crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[00:16:25] [WARN] Failed to parse recipe 'stevescarts:component/component_tri_torch[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[00:16:25] [INFO] Found 20792 recipes in 651.6 ms
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: undergarden:froststeel_ingot
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"undergarden:froststeel_ingot"},"result":[{"result":{"Count":1.0,"id":"jaopca:dusts.froststeel"}}],"duration":200.0,"eu":1500.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: undergarden:froststeel_ingot
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"undergarden:froststeel_ingot"},"result":{"item":"jaopca:dusts.froststeel","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: undergarden:cloggrum_ingot
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"undergarden:cloggrum_ingot"},"result":[{"result":{"Count":1.0,"id":"jaopca:dusts.cloggrum"}}],"duration":200.0,"eu":1500.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: undergarden:cloggrum_ingot
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"undergarden:cloggrum_ingot"},"result":{"item":"jaopca:dusts.cloggrum","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: 3x undergarden:raw_cloggrum
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: 3x undergarden:raw_froststeel
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: mekanism:fluorite_gem
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"mekanism:fluorite_gem"},"result":[{"result":{"Count":1.0,"id":"mekanism:dust_fluorite"}}],"duration":200.0,"eu":1500.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: mekanism:fluorite_gem
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"mekanism:fluorite_gem"},"result":{"item":"mekanism:dust_fluorite","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:netherite_ingot
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:netherite_ingot"},"result":[{"result":{"Count":1.0,"id":"mekanism:dust_netherite"}}],"duration":200.0,"eu":1500.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:netherite_ingot
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:netherite_ingot"},"result":{"item":"mekanism:dust_netherite","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:charcoal
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:charcoal"},"result":[{"result":{"Count":1.0,"id":"mekanism:dust_charcoal"}}],"duration":200.0,"eu":1500.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:charcoal
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:charcoal"},"result":{"item":"mekanism:dust_charcoal","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:obsidian
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:obsidian"},"result":[{"result":{"Count":4.0,"id":"mekanism:dust_obsidian"}}],"duration":300.0,"eu":4.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:obsidian
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:obsidian"},"result":{"item":"mekanism:dust_obsidian","count":4.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:diamond_ore
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:diamond_ore"},"result":[{"result":{"Count":3.0,"id":"modern_industrialization:diamond_crushed_dust"}}],"duration":800.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:diamond_ore
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:diamond_ore"},"result":{"item":"modern_industrialization:diamond_crushed_dust","count":3.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:emerald_ore
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:emerald_ore"},"result":[{"result":{"Count":3.0,"id":"modern_industrialization:emerald_crushed_dust"}}],"duration":800.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:emerald_ore
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:emerald_ore"},"result":{"item":"modern_industrialization:emerald_crushed_dust","count":3.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:lapis_ore
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:lapis_ore"},"result":[{"result":{"Count":16.0,"id":"modern_industrialization:lapis_crushed_dust"}}],"duration":800.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:lapis_ore
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:lapis_ore"},"result":{"item":"modern_industrialization:lapis_crushed_dust","count":16.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:nether_quartz_ore
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:nether_quartz_ore"},"result":[{"result":{"Count":4.0,"id":"modern_industrialization:quartz_crushed_dust"}}],"duration":800.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:nether_quartz_ore
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:nether_quartz_ore"},"result":{"item":"modern_industrialization:quartz_crushed_dust","count":4.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: actuallyadditions:black_quartz_ore
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"actuallyadditions:black_quartz_ore"},"result":[{"result":{"Count":4.0,"id":"ftbneotech:black_quartz_crushed_dust"}}],"duration":800.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: actuallyadditions:black_quartz_ore
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"actuallyadditions:black_quartz_ore"},"result":{"item":"ftbneotech:black_quartz_crushed_dust","count":4.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: ftbneotech:black_quartz_crushed_dust
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: actuallyadditions:black_quartz
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"actuallyadditions:black_quartz"},"result":[{"result":{"Count":1.0,"id":"ftbneotech:black_quartz_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: actuallyadditions:black_quartz
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"actuallyadditions:black_quartz"},"result":{"item":"ftbneotech:black_quartz_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:diamond
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:diamond"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:diamond_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:diamond
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:diamond"},"result":{"item":"modern_industrialization:diamond_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:lapis_lazuli
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:lapis_lazuli"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:lapis_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:lapis_lazuli
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:lapis_lazuli"},"result":{"item":"modern_industrialization:lapis_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:quartz
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:quartz"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:quartz_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:quartz
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:quartz"},"result":{"item":"modern_industrialization:quartz_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:emerald
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:emerald"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:emerald_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:emerald
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:emerald"},"result":{"item":"modern_industrialization:emerald_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:coal
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:coal"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:coal_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:coal
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:coal"},"result":{"item":"modern_industrialization:coal_dust","count":1.0},"energy":6000.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: immersiveengineering:ingot_constantan
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"immersiveengineering:ingot_constantan"},"result":[{"result":{"Count":1.0,"id":"immersiveengineering:dust_constantan"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:raw_iron
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:iron_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:iron_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:raw_iron"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:iron_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:iron_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:raw_iron
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:raw_iron"},"result":{"item":"modern_industrialization:iron_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:iron_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:raw_gold
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:gold_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:gold_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:raw_gold"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:gold_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:gold_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:raw_gold
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:raw_gold"},"result":{"item":"modern_industrialization:gold_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:gold_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: minecraft:raw_copper
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:copper_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:copper_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"minecraft:raw_copper"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:copper_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:copper_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: minecraft:raw_copper
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"minecraft:raw_copper"},"result":{"item":"modern_industrialization:copper_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:copper_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: mekanism:raw_osmium
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: mekanism:dust_osmium}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: mekanism:dust_osmium}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"mekanism:raw_osmium"},"result":[{"result":{"Count":1.0,"id":"mekanism:dust_osmium"}},{"chance":0.5,"result":{"Count":1.0,"id":"mekanism:dust_osmium"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: mekanism:raw_osmium
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"mekanism:raw_osmium"},"result":{"item":"mekanism:dust_osmium","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"mekanism:dust_osmium"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_antimony
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:antimony_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:antimony_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_antimony"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:antimony_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:antimony_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_antimony
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_antimony"},"result":{"item":"modern_industrialization:antimony_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:antimony_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_iridium
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:iridium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:iridium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_iridium"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:iridium_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:iridium_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_iridium
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_iridium"},"result":{"item":"modern_industrialization:iridium_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:iridium_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_lead
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:lead_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:lead_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_lead"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:lead_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:lead_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_lead
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_lead"},"result":{"item":"modern_industrialization:lead_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:lead_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_nickel
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:nickel_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:nickel_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_nickel"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:nickel_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:nickel_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_nickel
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_nickel"},"result":{"item":"modern_industrialization:nickel_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:nickel_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_tungsten
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:tungsten_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:tungsten_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_tungsten"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:tungsten_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:tungsten_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_tungsten
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_tungsten"},"result":{"item":"modern_industrialization:tungsten_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:tungsten_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_tin
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:tin_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:tin_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_tin"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:tin_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:tin_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_tin
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_tin"},"result":{"item":"modern_industrialization:tin_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:tin_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_silver
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:silver_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:silver_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_silver"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:silver_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:silver_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_silver
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_silver"},"result":{"item":"modern_industrialization:silver_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:silver_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: undergarden:raw_cloggrum
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: jaopca:dusts.cloggrum}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: jaopca:dusts.cloggrum}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"undergarden:raw_cloggrum"},"result":[{"result":{"Count":1.0,"id":"jaopca:dusts.cloggrum"}},{"chance":0.5,"result":{"Count":1.0,"id":"jaopca:dusts.cloggrum"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: undergarden:raw_cloggrum
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"undergarden:raw_cloggrum"},"result":{"item":"jaopca:dusts.cloggrum","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"jaopca:dusts.cloggrum"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: undergarden:raw_froststeel
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: jaopca:dusts.froststeel}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: jaopca:dusts.froststeel}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"undergarden:raw_froststeel"},"result":[{"result":{"Count":1.0,"id":"jaopca:dusts.froststeel"}},{"chance":0.5,"result":{"Count":1.0,"id":"jaopca:dusts.froststeel"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: undergarden:raw_froststeel
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"undergarden:raw_froststeel"},"result":{"item":"jaopca:dusts.froststeel","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"jaopca:dusts.froststeel"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: modern_industrialization:raw_uranium
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:uranium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:uranium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"modern_industrialization:raw_uranium"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:uranium_dust"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:uranium_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: modern_industrialization:raw_uranium
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"modern_industrialization:raw_uranium"},"result":{"item":"modern_industrialization:uranium_dust","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:uranium_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: immersiveengineering:ore_silver
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:raw_silver}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:uranium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"immersiveengineering:ore_silver"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:raw_silver"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:uranium_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: immersiveengineering:ore_silver
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"immersiveengineering:ore_silver"},"result":{"item":"modern_industrialization:raw_silver","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:uranium_dust"}}]}
+[00:16:25] [INFO] macerating/macerating.js#644: Processing recipe for: immersiveengineering:deepslate_ore_silver
+[00:16:25] [INFO] macerating/macerating.js#496: {result: {Count: 1.0, id: modern_industrialization:raw_silver}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#496: {chance: 0.5, result: {Count: 1.0, id: modern_industrialization:uranium_dust}} [dev.latvian.mods.rhino.NativeObject]
+[00:16:25] [INFO] macerating/macerating.js#499: Final recipe: {"type":"actuallyadditions:crushing","ingredient":{"item":"immersiveengineering:deepslate_ore_silver"},"result":[{"result":{"Count":1.0,"id":"modern_industrialization:raw_silver"}},{"chance":0.5,"result":{"Count":1.0,"id":"modern_industrialization:uranium_dust"}}],"duration":100.0,"eu":2.0}
+[00:16:25] [INFO] macerating/macerating.js#524: Creating Immersive Engineering recipe for: immersiveengineering:deepslate_ore_silver
+[00:16:25] [INFO] macerating/macerating.js#548: Final recipe: {"type":"immersiveengineering:crusher","input":{"item":"immersiveengineering:deepslate_ore_silver"},"result":{"item":"modern_industrialization:raw_silver","count":1.0},"energy":6000.0,"secondaries":[{"chance":0.5,"output":{"item":"modern_industrialization:uranium_dust"}}]}
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_nutritious_feed
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_cursed_feed
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: comforts:rope_and_nail_shapeless
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_osmium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_osmium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_uranium_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_constantan_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_aluminum_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_copper_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_electrum_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_gold
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_gold
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_gold_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_iron
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_iron
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_iron_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:rice_paper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_lead_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/steel/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_nickel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_nickel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: integrateddynamics:crafting/logic_programmer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_nickel_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_platinum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_platinum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_silver_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/plate_steel_hammering
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_tin
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_tin
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_tungsten
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_tungsten
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammercrushing_uranium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_hammercrushing_uranium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/toolupgrade_revolver_electro
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedbackpacks:backpack
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/electrum_mix
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:netherite_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:stone_destructor_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:stone_reinforced_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:diamond_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:iron_destructor_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:iron_reinforced_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:gold_reinforced_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:diamond_destructor_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:gold_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:diamond_reinforced_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:gold_destructor_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:iron_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:sps_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lategame/plutonium_pellet/from_reaction
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:netherite_reinforced_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:netherite_destructor_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:stone_impact_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:netherite_reinforced_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:diamond_reinforced_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:gold_reinforced_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:iron_reinforced_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justhammers:stone_reinforced_hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:tools/diesel_mining_drill
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/bronze_dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: jaopca:storage_blocks.to_storage_block.flour
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pamhc2crops:bread_grain
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:bread
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_aluminum_to_nugget_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/nugget_aluminum_to_ingot_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/blocks/crystal_processing_charger
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: jaopca:storage_blocks.to_storage_block.ender_pearl
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:storage_blocks/salt
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:netherite_ingot
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equiconstentexchange:philosophers_stone
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equivalentexchange:repair_talisman
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equivalentexchange:transmutation_table
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equivalentexchange:alchemical_chest
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/blastbrick
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:lens_of_the_miner
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:gooblock_tier1
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:gooblock_tier2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:gooblock_tier3
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:gooblock_tier4
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: farmingforblockheads:market
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:pocket_generator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:iron_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:atomic_reconstructor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: tempad:tempad
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:lens
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pamhc2crops:coffeebeanseeditem
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:lava_factory_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:ender_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:wings_of_the_bats
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:empowerer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: chickens:egg_cracker
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: chickens:breeder
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: chickens:catcher
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: chickens:ovoscope
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: chickens:incubator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:wood_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:canola_press
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:crusher
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:crusher_double
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:oil_generator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:leaf_generator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:coal_generator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:breaker
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:long_range_breaker
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:amulet_of_amulets_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:slime_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:obsidian_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:ocean_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:amethyst_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:end_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:emerald_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:diamond_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:quartz_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:redstone_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:lapis_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:gold_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:iron_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: copper_amulets:empty_amulet_recipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: undergarden:catalyst
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:quintuple_battery
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:quadruple_battery
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:triple_battery
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:laser_relay
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: simplemagnets:advancedmagnet
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: simplemagnets:basicmagnet
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:heat_collector
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:battery_box
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:powered_furnace
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:dropper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:farmer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:placer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:slime_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/capacitor_lv
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/blocks/inscribers
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/bronze_tiny_dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:nuggets/steel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_steel_to_nugget_steel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:nuggets/bronze
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/nugget/from_ingot
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/nugget/from_ingot
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/nugget/from_ingot
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/copper_ingot_to_nugget_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pneumaticcraft:copper_nugget
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_lead_to_nugget_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_silver_to_nugget_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_nickel_to_nugget_nickel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_uranium_to_nugget_uranium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_electrum_to_nugget_electrum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/raw_storage_blocks/from_raw
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/coal_coke_to_coke
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_silver_to_raw_block_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_lead_to_raw_block_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_nickel_to_raw_block_nickel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_silver_to_storage_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_lead_to_storage_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_aluminum_to_storage_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/raw_uranium_to_raw_block_uranium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/ingot_nickel_to_storage_nickel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:storage_blocks/bronze
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:storage_blocks/steel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/storage_blocks/from_ingots
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/storage_blocks/from_ingots
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/steel/ingot/from_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/steel/ingot/from_nuggets
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/storage_blocks/from_ingots
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/raw_storage_blocks/from_raw
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/raw_storage_blocks/from_raw
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/string
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: entangled:block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_electrum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wirecutter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/screwdriver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/toolbox
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: entangled:block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_electrum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/screwdriver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wirecutter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/wire_lead
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/toolbox
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: javd:portal_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: shrink:shrinking_device
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:steel_casing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:tier_installer/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:tier_installer/advanced
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:tier_installer/elite
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:tier_installer/ultimate
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:enrichment_chamber
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:osmium_compressor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:combiner
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:crusher
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:metallurgic_infuser
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:energized_smelter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:electric_pump
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:logistical_sorter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:rotary_condensentrator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:chemical_oxidizer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:chemical_infuser
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:chemical_injection_chamber
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:electrolytic_separator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:precision_sawmill
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:seismic_vibrator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:pressurized_reaction_chamber
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:isotopic_centrifuge
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:nutritional_liquifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fluid_tank/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fluid_tank/advanced
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fluid_tank/elite
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fluid_tank/ultimate
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fluidic_plenisher
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:solar_neutron_activator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:resistive_heater
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:formulaic_assemblicator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:pigment_extractor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:dimensional_stabilizer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:energy_cube/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:energy_cube/advanced
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:energy_cube/elite
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:energy_cube/ultimate
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:transmitter/universal_cable/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:transmitter/logistical_transporter/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:transmitter/restrictive_transporter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:transmitter/diversion_transporter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:transmitter/thermodynamic_conductor/basic
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:security_desk
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:radioactive_waste_barrel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:personal_chest
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:personal_barrel
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:chargepad
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:laser
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:laser_amplifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:oredictionificator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:fuelwood_heater
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:qio_dashboard
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:qio_exporter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:qio_importer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:industrial_alarm
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:configurator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:network_reader
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:dosimeter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:geiger_counter
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:gauge_dropper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:scuba_mask
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:scuba_tank
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:free_runners_armored
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:jetpack
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:jetpack_armored
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:hazmat_mask
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:hazmat_gown
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:hazmat_pants
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:hazmat_boots
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:flamethrower
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:canteen
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:module_base
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:logic_chip_raw
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:overclocker_card
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:overclocker_node
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:laser_wrench
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:laser_connector
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:laser_node
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:laser_connector_advanced
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:card_holder
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: laserio:card_cloner
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/hammer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/cokebrick
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: hangglider:glider_framework
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: hangglider:glider_wing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:gadget_building
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:template_manager
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:gadget_copy_paste
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:gadget_exchanging
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:gadget_cut_paste
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: buildinggadgets2:gadget_destruction
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:empty_cup
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:ring
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:basic_coil
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:advanced_coil
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:rice_slime
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:rice_slime_potion
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_core
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:engineers_goggles
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:laser_upgrade_range
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:laser_upgrade_invisibility
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:handheld_filler
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:travelers_sack
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:player_probe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:crate_keeper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:laser_wrench
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:ring_of_magnetizing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:teleport_staff
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_light_blue
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:single_battery
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_speed
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_speed_ii
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_speed_iii
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_silk_touch
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_fortune
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_fortune_ii
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_three_by_three
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_five_by_five
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:drill_upgrade_block_placing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:phantom_connector
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:leaf_blower
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: actuallyadditions:advanced_leaf_blower
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:manager
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:cable
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:water_tank
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:labelgun
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:network_tool
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sfm:printing_press
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:storage_input
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:storage_output
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:storage_io
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:storage_link_from_controller
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:storage_link
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: sophisticatedstorage:controller
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:focus_matrix
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:battery
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:projector
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:coercion_deriver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:fortron_capacitor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:biometric_identifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:remote_controller
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:shock_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:stabilization_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mffs:blank_card
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_jumbotank
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_xp_tap
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_mould_blank
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_absorbtion_hopper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_spikes
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_fan
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_solidifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_entity_conveyor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_entity_spawner
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_mob_swab
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_tintedglass
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_ender_inhibitor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_arthropod
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_beheading
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_smite
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_fire
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_sharpness
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_saw_upgrade_looting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_absorbtion_upgrade
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_spawner_upgrade_width
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_spawner_upgrade_height
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_xpsolidifier_upgrade
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_fan_upgrade_width
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_fan_upgrade_height
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mob_grinding_utils:recipe_fan_upgrade_speed
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: gag:time_sand_pouch
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: darkutils:crafting/vector_plate
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:tnt
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equivalentexchange:condenser
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/thermoelectric_generator
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/dynamo
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_raw_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_ore_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: dimstorage:dim_core
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: dimstorage:dim_wall
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: dimstorage:dimensional_tablet
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: dimstorage:solid_dim_core
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/blocks/controller
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/blocks/energy_energy_acceptor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: dimstorage:dimensional_tablet
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:enchanting_table
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:materials/formationcore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:materials/annihilationcore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/crafting/cpu_crafting_unit
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2:network/blocks/energy_vibration_chamber
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_drive_1k
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_drive_4k
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_drive_16k
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_drive_64k
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_drive_256k
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: ae2things:cells/disk_housing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/coal/macerator/crushed_dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_smelting_iron_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_smelting_deepslate_iron_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_smelting_raw_iron
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_blasting_iron_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_blasting_deepslate_iron_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:iron_ingot_from_blasting_raw_iron
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_smelting_copper_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_smelting_deepslate_copper_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_smelting_raw_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_smelting_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_smelting_deepslate_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_smelting_nether_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_smelting_raw_gold
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_raw_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_ore_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/osmium/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:blazegold_ingot_smelted
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justdirethings:eclipsealloy_ingot_smelted
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/ore_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/ore_deepslate_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/antimony/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:/mekanism_generated/materials/lead/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:/mekanism_generated/materials/lead/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:/mekanism_generated/materials/lead/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_deepslate_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/ore_deepslate_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/ore_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/nickel/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/silver/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/silver/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/ore_deepslate_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/ore_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/tin/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crafting/constantan_mix
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver_from_blasting2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_ore_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_uranium_from_blasting2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_blasting_raw_gold
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/iridium/smelting/ore_deepslate_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_blasting_nether_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_blasting_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_nickel_from_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_aluminum_from_blasting2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_aluminum_from_blasting3
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_aluminum_from_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_lead_from_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_uranium_from_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/smelting/ore_deepslate_to_gem_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_blasting_copper_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_ore_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_blasting_deepslate_copper_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_nickel_from_blasting2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver_from_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/iridium/smelting/ore_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_lead_from_blasting2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:/mekanism_generated/smelting/ingot_silver2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver2_exported_mi_furnace
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/smelting/ore_to_gem_blasting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:copper_ingot_from_blasting_raw_copper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: minecraft:gold_ingot_from_blasting_deepslate_gold_ore
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: equivalentexchange:philosophers_stone
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/silver/craft/raw_metal_block_from_raw_metal
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_silver_exported_mi_furnace
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:blank_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:modular_router
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:blank_upgrade
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:extruder_module_2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:fluid_module_2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:fluid_module_2_x4
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:puller_module_2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:puller_module_2_x4
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:sender_module_2
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:sender_module_2_x4
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:sender_module_3
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:activator_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:energy_output_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:energy_upgrade
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modularrouters:speed_upgrade
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:mekanism_generated/processing/tin/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:mekanism_generated/materials/lead/smelting/ore_deepslate_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:mekanism_generated/materials/lead/smelting/ore_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_deepslate_to_ingot_smelting_exported_mi_furnace
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lead/smelting/ore_to_ingot_smelting_exported_mi_furnace
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pneumaticcraft:liquid_hopper
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_nuggets
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_nuggets
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_nuggets
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/ingot/from_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:pipe
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:pressurizer
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:crafting_terminal
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:item_terminal
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_crafting_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_crafting_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_crafting_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_extraction_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_extraction_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_extraction_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:filter_increase_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:damage_filter_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:tag_filter_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:mod_filter_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:nbt_filter_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_filter_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_filter_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_filter_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_high_priority_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_high_priority_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_high_priority_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:blank_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_low_priority_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_low_priority_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:redstone_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_retrieval_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_retrieval_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_retrieval_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:round_robin_sorting_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:random_sorting_modifier
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:medium_speed_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:low_speed_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:high_speed_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:stack_size_module
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: prettypipes:wrench
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/heat_exchanger/lava
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pamhc2crops:cactus_x2_cactus_plants
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pamhc2crops:paper_x2_paper_plants
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lategame/polonium_pellet/from_reaction
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: pneumaticcraft:pressure_tube
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/compressor/lignite_coal
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justanotherchiselmod:marble/marble
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: justanotherchiselmod:factory/factory_stonecutting
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/forge_hammer/ore_to_crushed_dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/forge_hammer/ore_to_crushed_dust_with_tool
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/forge_hammer/ore_to_dust_with_tool
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/compressor/lignite_coal
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/macerator/ore_to_crushed
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/packer/dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/unpacker/gem
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: modern_industrialization:materials/lignite_coal/unpacker/tiny_dust
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:crusher/raw_ore_aluminum
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: solonion:lunchbag
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: solonion:golden_lunchbox
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: solonion:lunchbox
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: immersiveengineering:smelting/ingot_uranium
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/bronze/ingot/from_nuggets
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/bronze/ingot/from_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/bronze/ingot/from_infusing
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/lead/raw/from_raw_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/tin/raw/from_raw_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: mekanism:processing/uranium/raw/from_raw_block
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:inscriber/concurrent_process
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:inscriber/concurrent_print
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:inscriber/crush_entro
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/accumulation_processor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/logic_processor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/fishbig_destroy
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/calculation_processor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/engineering_processor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/concurrent_processor
+[00:16:25] [INFO] recipe_removals.js#793: Removing Recipe: extendedae:cutter/silicon_print
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_aluminum
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_aluminum
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_nickel
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_nickel
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_silver
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_silver
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_uranium
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_uranium
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_lead
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_lead
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_tin
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_tin
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_copper
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_copper
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_gold
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_gold
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_block_iron
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_iron
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_diamond
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_emerald
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_lapis
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/ore_quartz
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_iron
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_copper
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_gold
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_lead
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_nickel
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_silver
+[00:16:25] [INFO] recipe_removals.js#797: Removing Recipe: immersiveengineering:crusher/raw_ore_uranium
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/ore_aluminum
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_aluminum
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_aluminum
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_tungsten
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_tungsten
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/dust_tungsten
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/ore_tungsten
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_iron
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_copper
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_gold
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_lead
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_nickel
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_silver
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_ore_uranium
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_iron
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_gold
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_copper
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_lead
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_nickel
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_silver
+[00:16:25] [INFO] recipe_removals.js#801: Removing Recipe: immersiveengineering:arcfurnace/raw_block_uranium
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/iron/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_shiverstone_iron_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_depthrock_iron_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/iron_ingot_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/copper/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/copper_ingot_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: modern_industrialization:materials/gold/smelting/dust_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/gold_ingot_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_depthrock_gold_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/lead_red
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_catalyst
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: ae2:smelting/silicon_from_certus_quartz_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_pick
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_shovel
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_axe
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_sword
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_helmet
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_chestplate
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_leggings
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_boots
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_helmet
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_chestplate
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_leggings
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_boots
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/uranium/ingot/from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_uranium_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_lead3
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_electrum_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_lead_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_nickel3
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_steel_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_uranium3
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_silver_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_aluminum_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_silver3
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:smelting/ingot_nickel_from_dust
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/netherite/ingot_from_dust_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: pneumaticcraft:thermopneumatic_processing_plant
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: sophisticatedstorage:controller
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: sophisticatedstorage:storage_link
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: sophisticatedstorage:storage_link_from_controller
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:lapis_lazuli_from_smelting_lapis_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:lapis_lazuli_from_blasting_lapis_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:lapis_lazuli_from_smelting_deepslate_lapis_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:lapis_lazuli_from_blasting_deepslate_lapis_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:emerald_from_smelting_emerald_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:emerald_from_smelting_deepslate_emerald_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:emerald_from_blasting_emerald_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:emerald_from_blasting_deepslate_emerald_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:redstone_from_smelting_redstone_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:redstone_from_smelting_deepslate_redstone_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:redstone_from_blasting_redstone_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:redstone_from_blasting_deepslate_redstone_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:diamond_from_smelting_diamond_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:diamond_from_smelting_deepslate_diamond_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_catalyst
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:diamond_from_blasting_diamond_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:diamond_from_blasting_deepslate_diamond_ore
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:blast_catalyst
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: immersiveengineering:crafting/stick_steel
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: minecraft:quartz
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: actuallyadditions:black_quartz_ore_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_raw_cloggrum
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: undergarden:smelt_raw_froststeel
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: modern_industrialization:materials/iridium/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: modern_industrialization:materials/lead/smelting/raw_metal_to_ingot_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/lead/ingot/from_raw_smelting
+[00:16:25] [INFO] recipe_removals.js#805: Removing Recipe: mekanism:processing/tin/ingot/from_raw_smelting
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/wheat_seeds
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/hemp_seeds
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/beetroot_seeds
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/melon_seeds
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/pumpkin_seeds
+[00:16:25] [INFO] recipe_removals.js#809: Removing Recipe: immersiveengineering:squeezer/graphite_dust
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_pick_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/netherite/ingot_from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_depthrock_iron_ore
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/iron_ingot_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_shiverstone_iron_ore
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_catalyst
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: minecraft:iron_nugget_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: minecraft:gold_nugget_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/copper_ingot_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/gold_ingot_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/gold/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/copper/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/iron/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_depthrock_gold_ore
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_shovel_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_axe_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_sword_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_helmet_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_chestplate_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_leggings_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_steel_recycle_steel_boots_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_helmet_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_chestplate_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_leggings_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/nugget_aluminum_recycle_faraday_boots_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: ae2:blasting/silicon_from_certus_quartz_dust
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/lead/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/bronze/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/steel/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/tin/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/uranium/ingot/from_dust_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_silver_from_blasting3
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_uranium_from_blasting3
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_electrum_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_silver_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_lead_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_nickel_from_blasting3
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_lead_from_blasting3
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_steel_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_nickel_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_uranium_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: immersiveengineering:smelting/ingot_aluminum_from_dust_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: minecraft:gold_ingot_from_blasting_raw_gold
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: minecraft:copper_ingot_from_blasting_raw_copper
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: actuallyadditions:black_quartz_ore_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: minecraft:quartz_from_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_raw_cloggrum
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: undergarden:blast_raw_froststeel
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: modern_industrialization:materials/iridium/smelting/raw_metal_to_ingot_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/lead/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#813: Removing Recipe: mekanism:processing/tin/ingot/from_raw_blasting
+[00:16:25] [INFO] recipe_removals.js#817: Removing Recipe: modern_industrialization:compat/ae2/electrolyzer/ae2_certus_quartz_crystal_to_ae2_charged_certus_quartz_crystal
+[00:16:25] [INFO] recipe_removals.js#821: Removing Recipe: modern_industrialization:vanilla_recipes/mixer/netherite
+[00:16:25] [INFO] recipe_removals.js#825: Removing Recipe: farmingforblockheads:market/pamhc2crops/coffeebeanseeditem
+[00:16:25] [INFO] recipe_removals.js#829: Removing Recipe: immersiveengineering:metalpress/plate_uranium
+[00:16:25] [INFO] Posted recipe events in 507.0 ms
+[00:16:26] [WARN] Error parsing recipe stevescarts:component/component_tri_torch[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###"],"key":{"#":{"item":"minecraft:torch"}},"result":{"item":"stevescarts:component_tri-torch"}}: Item must not be minecraft:air
+[00:16:26] [WARN] Error parsing recipe darkutils:crafting/tome_runelic[minecraft:crafting_shaped]: {"type":"crafting_shaped","group":"darkutils:tome_runelic","pattern":["RWR","VBV","RWR"],"key":{"R":{"item":"minecraft:redstone"},"W":{"item":"minecraft:nether_wart"},"V":{"item":"minecraft:weeping_vines"},"B":{"item":"minecraft:writable_book"}},"result":{"item":"darkutils:tome_runelic","count":1}}: Item must not be minecraft:air
+[00:16:26] [WARN] Error parsing recipe darkutils:crafting/tome_pigpen[minecraft:crafting_shaped]: {"type":"crafting_shaped","group":"darkutils:tome_pigpen","pattern":["PCP","CBC","PCP"],"key":{"P":{"item":"minecraft:porkchop"},"C":{"item":"minecraft:brick"},"B":{"item":"minecraft:writable_book"}},"result":{"item":"darkutils:tome_pigpen","count":1}}: Item must not be minecraft:air
+[00:16:26] [WARN] Error parsing recipe extendedae:silicon_block[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   ","   "],"result":{"item":"extendedae:silicon_block"}}: Index 0 out of bounds for length 0
+[00:16:26] [WARN] Error parsing recipe immersiveengineering:arc_recycling_list[immersiveengineering:generated_list]: {"type":"immersiveengineering:generated_list","conditions":[{"type":"forge:false"}]}: No key generatorID in MapLike[{"type":"immersiveengineering:generated_list","conditions":[{"type":"forge:false"}]}]
+[00:16:26] [WARN] Error parsing recipe immersiveengineering:crafting/sheetmetal_uranium[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","key":{},"pattern":["   ","   ","   "],"result":{"count":4,"item":"immersiveengineering:sheetmetal_uranium"}}: Index 0 out of bounds for length 0
+[00:16:26] [WARN] Error parsing recipe ftbneotech:sfm_disk_0[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"sfm:disk","count":1},"pattern":["A C","BDB","C E"],"key":{"A":[{"item":"modern_industrialization:capacitor"},{"item":"pneumaticcraft:capacitor"}],"B":{"tag":"forge:dyes/green"},"C":{"tag":"forge:dyes/red"},"D":{"item":"immersiveengineering:rs_engineering"},"E":{"tag":"forge:dyes/blue"},"F":{"item":"immersiveengineering:wirecoil_redstone"},"G":{"item":"modern_industrialization:redstone_battery"}}}: Key defines symbols that aren't used in pattern: {F, G}
+[00:16:26] [INFO] Added 606 recipes, removed 728 recipes, modified 122 recipes, with 7 failed recipes in 693.8 ms
+[00:16:46] [INFO] Server resource reload complete!

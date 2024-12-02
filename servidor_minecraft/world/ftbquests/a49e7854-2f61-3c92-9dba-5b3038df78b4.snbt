@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a49e78542f613c929dba5b3038df78b4"
+	name: "q7_7p#a49e7854"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
